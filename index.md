@@ -1,4 +1,4 @@
-<body id="diablo-main-container">
+<div id="diablo-main-container">
     <div class="container">
         <h1>Diablo 4 Wishlist</h1>
         <div class="main-info-container">
@@ -124,4 +124,4 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
         crossorigin="anonymous"></script>
 
-</body>
+</div>
