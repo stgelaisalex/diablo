@@ -1,6 +1,6 @@
 <div id="diablo-main-container">
     <div class="container">
-        <h1>Diablo 4 Wishlist</h1>
+        <h1>Diablo IV Wishlist</h1>
         <div class="main-info-container">
             <div class="wrapper">
                 <p>After the complete disaster for diablo fans at Blizzcon, here is my take on what should be implemented
